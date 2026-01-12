@@ -1,4 +1,4 @@
 package com.borntocodeme.operators;
 
-public class Teacher {
+public class TeacherLogin {
 }
